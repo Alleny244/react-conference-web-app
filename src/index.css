@@ -60,3 +60,7 @@ form {
   height: 30px;
   border-radius: 10px 0px 0px 10px;
 } */
+
+.dark{
+  background-color: #000080;
+}
