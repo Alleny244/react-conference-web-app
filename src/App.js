@@ -26,7 +26,7 @@ const App = () => {
   }, []);
   return (
     <div>
-      <div className="dark>
+      <div className="dark">
         <h1 className={styles}>Developer Conference Hub</h1>
         <Search list={list} setFilterList={setFilterList} />
         <h3 className={styles}>Conference list</h3>
